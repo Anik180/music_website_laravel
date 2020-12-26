@@ -1,0 +1,68 @@
+# Translation of Plugins - Contact Form 7 &#8211; Phone mask field - Development Readme (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; Phone mask field - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-03 19:09:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; Phone mask field - Development Readme (trunk)\n"
+
+#. Found in description paragraph.
+msgid "This plugin adds a new field in which you can set the phone number mask or other to Contact Form 7."
+msgstr "Этот плагин добавляет новое поле в котором можно установить маску ввода телефонного номера, или любую другую, для Contact Form 7."
+
+#. Plugin name.
+msgid "Contact Form 7 - Phone mask field"
+msgstr "Contact Form 7 - Маска ввода телефонного номера"
+
+#. Found in description paragraph.
+msgid "Example of shortcode: [mask* your-tel &quot;your_mask&quot;  &quot;Your placeholder&quot;]"
+msgstr "Пример шорткода: [mask* your-tel &quot;маска&quot;  &quot;Placeholder&quot;]"
+
+#. Found in description paragraph.
+msgid "Please notice that Contact Form 7 (version 5.0.3 or latest) must be installed and active."
+msgstr "Обратите внимание, плагин Contact Form 7 (версия 5.0.3 или новее) должен быть установлен и активирован."
+
+#. Found in installation paragraph.
+msgid "Just install from your WordPress \"Plugins &gt; Add New\" screen and all will be well. Manual installation is very straightforward as well:"
+msgstr "Просто установите с помощью WordPress: «Плагины > Добавить новый». Ручная установка также очень проста:"
+
+#. Found in installation list item.
+msgid "That's it!"
+msgstr "Это все!"
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr "Активируйте плагин через меню «Плагины» в WordPress."
+
+#. Found in installation list item.
+msgid "Upload the <code>cf7-phone-mask-field</code> folder to the <code>/wp-content/plugins/</code> directory"
+msgstr "Загрузите папку <code>cf7-phone-mask-field</code> в директорию плагинов <code>/wp-content/plugins/</code>"
+
+#. Found in description paragraph.
+msgid "A new field &quot;mask field&quot; will be added to the Contact Form 7 panel buttons."
+msgstr "Кнопка «маска ввода» будет добавлена в панель кнопок Contact Form 7."
+
+#. Screenshot description.
+msgid "New field in Contact Form 7"
+msgstr "Новое поле в Contact Form 7."
+
+#. Found in changelog list item.
+msgid "Added support for the type value."
+msgstr "Добавлена поддержка установки типа поля."
+
+#. Found in changelog list item.
+msgid "Added a form-tag generator field for the placeholder value."
+msgstr "Добавлена форма генерации меток для значения placeholder"
+
+#. Found in changelog list item.
+msgid "Added support for the placeholder field."
+msgstr "Добавлена поддержка placeholder."
+
+#. Found in changelog list item.
+msgid "First released version."
+msgstr "Первая версия."
